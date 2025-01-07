@@ -1,4 +1,4 @@
-![logo] (https://github.com/khanabdullah10/khanabdullah10/blob/main/WhatsApp%20Image%202025-01-08%20at%2001.51.54_ffaf140a.jpg)
+
 <h1 align="center">Holla👋, Amigos khan Abdullah this side!</h1>
 <h3 align="center">A passionate Backend Developer from India, specializing in Java and backend technologies.</h3>
 <img align = "right" alt = "coding" width="400" src = "https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/1_yw0TnheAGN-LPneDaTlaxw.gif">
